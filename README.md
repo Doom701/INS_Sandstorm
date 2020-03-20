@@ -5,7 +5,7 @@ Insurgency Sandstorm Settings taken from
 
 ---
 
-Other unrelated Help Links
+Other unrelated Helpful Links
 - https://github.com/zWolfi/INS_Sandstorm
 - https://github.com/Joe-Klauza/sandstorm-admin-wrapper
 - https://github.com/schroeder-lvb/sissm
