@@ -6,7 +6,6 @@ Server Details
 - Map PowerPlant
 - Sandstorm Admin Wrapper(SAW)
 
-INSCheckpointHardcoreGameMode
 AmmoBoxSpawnChance = 1.000000 (float, Config)
 MaxAmmoPerObjective = 6 (int32, Config)
 MinAmmoPerObjective = 4 (int32, Config)
